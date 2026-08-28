@@ -143,8 +143,6 @@ img { display: block; max-width: 100%; }
   margin: 0 auto 60px;
 }
 
-.dark-header { /* used inside dark bg sections */ }
-
 .section-tag {
   font-family: var(--font-mono);
   font-size: 0.75rem;
@@ -264,7 +262,7 @@ img { display: block; max-width: 100%; }
 
 .stat-num {
   font-family: var(--font-display);
-  font-size: 2.4rem;
+  font-size: 2rem;
   font-weight: 800;
   color: var(--accent);
   letter-spacing: -0.04em;
